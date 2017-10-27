@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintingSystem-Fiverr Project03", "PrintingSystem-Fiverr Project03\PrintingSystem-Fiverr Project03.csproj", "{3114537B-10F3-4A53-8A5F-2A4545A446EC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TinyPrint", "TinyPrint\TinyPrint.vdproj", "{54C03757-C083-49F1-943A-AEFF8F49B20A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3114537B-10F3-4A53-8A5F-2A4545A446EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3114537B-10F3-4A53-8A5F-2A4545A446EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3114537B-10F3-4A53-8A5F-2A4545A446EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3114537B-10F3-4A53-8A5F-2A4545A446EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54C03757-C083-49F1-943A-AEFF8F49B20A}.Debug|Any CPU.ActiveCfg = Debug
+		{54C03757-C083-49F1-943A-AEFF8F49B20A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
